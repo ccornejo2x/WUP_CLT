@@ -182,9 +182,4 @@ print(paste('mean = ', mean(my1000$k6),' sd = ',sd(my1000$k6)))
 
 ```
 
-
-
-
-
-
-
+We expected 6 and got `r sd (my1000$k6)` . 
