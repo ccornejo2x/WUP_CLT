@@ -109,6 +109,6 @@ print(paste('mean = ', mean(my1000$k4),' sd = ',sd(my1000$k3)))
 
 ```
 
-
+Take the data that comes from the control limit and add the standard deviation to it. As the number increases, the standard deviation decreases, for instance, when 4 is divided by 2, 9 is divided by 3, 16 is divided by 4, and so on. 
 
 
