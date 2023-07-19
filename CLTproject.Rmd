@@ -135,7 +135,7 @@ print(paste('mean = ', mean(my1000$k4),' sd = ',sd(my1000$k4)))
 
 ```
 
-The standard deviation is now 10 and is a fourth of what it was previously. 
+The standard deviation is now 10 and is a fourth of what it was previously.
 
 
 
